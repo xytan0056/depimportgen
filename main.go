@@ -7,5 +7,5 @@ import (
 
 func main() {
 	api.API()
-	fmt.Println("I don't have gen")
+	fmt.Println("I just don't have gen")
 }
